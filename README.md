@@ -1,2 +1,0 @@
-# ProjectMagenta.github.io
-Website
